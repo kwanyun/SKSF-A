@@ -9,9 +9,11 @@ SKSF-A contains 134 identities and corresponing sketches, making 938 face-sketch
 ## Download
 
 SKSF-A can be download here
+
 https://drive.google.com/file/d/1E0QBScC_0cXoMNn7JE1P4f6I9qMFagvz/view?usp=drive_link
 
 ## Citation
+
 For using SKSF-A, cite "Stylized Face Sketch Extraction via Generative Prior with Limited Data" 
 
 ```bash
