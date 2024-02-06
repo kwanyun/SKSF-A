@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1E0QBScC_0cXoMNn7JE1P4f6I9qMFagvz/view?usp=drive
 ## Dataset Configuration
 
 <img src="https://github.com/kwanyun/SKSF-A/assets/68629563/678d8b51-f26e-4b0b-9e5f-0456b8022ff6" width="40%">
-<img src="https://github.com/kwanyun/SKSF-A/assets/68629563/ebe92588-d54b-4404-b3eb-49c8085a67f2" width="50%">
+<img src="https://github.com/kwanyun/SKSF-A/assets/68629563/ebe92588-d54b-4404-b3eb-49c8085a67f2" width="30%">
 
 ## Citation
 
