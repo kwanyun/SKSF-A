@@ -3,8 +3,7 @@
 ## This is official repository of SKSF-A, a high-resolution dataset of paired face sketches.
 
 SKSF-A consists of seven distinct styles drawn by professional artists. 
-SKSF-A contains 134 identities and corresponing sketches, making 938 face-sketch pairs in total.
-
+SKSF-A contains 134 identities and corresponding sketches, making a total of 938 face-sketch pairs.
 
 ## Download
 
