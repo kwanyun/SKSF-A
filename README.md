@@ -24,8 +24,11 @@ https://drive.google.com/file/d/1E0QBScC_0cXoMNn7JE1P4f6I9qMFagvz/view?usp=drive
 For using SKSF-A, cite "Stylized Face Sketch Extraction via Generative Prior with Limited Data" 
 
 ```bash
-@article{aaa
-  title={StyleSketch: Stylized Face Sketch Extraction via Generative Prior with Limited Data},
-  author={Anonymous},
-  year={2024}
+@inproceedings{yun2024stylized,
+  title={Stylized Face Sketch Extraction via Generative Prior with Limited Data},
+  author={Yun, Kwan and Seo, Kwanggyoon and Seo, Changwook and Yoon, Soyeon and Kim, Seongcheol and Ji, Soohyun and Ashtari, Amirsaman and Noh, Junyong},
+  booktitle={Computer Graphics Forum},
+  year={2024},
+  organization={Wiley Online Library}
+}
 ```
