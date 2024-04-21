@@ -28,11 +28,13 @@ SKSF-A is free for academic purpose
 For using SKSF-A, cite "Stylized Face Sketch Extraction via Generative Prior with Limited Data" 
 
 ```bash
-@inproceedings{yun2024stylized,
-  title={Stylized Face Sketch Extraction via Generative Prior with Limited Data},
-  author={Yun, Kwan and Seo, Kwanggyoon and Seo, Changwook and Yoon, Soyeon and Kim, Seongcheol and Ji, Soohyun and Ashtari, Amirsaman and Noh, Junyong},
-  booktitle={Computer Graphics Forum},
-  year={2024},
-  organization={Wiley Online Library}
+@article {yun2024stylized,
+journal = {Computer Graphics Forum},
+title = {{Stylized Face Sketch Extraction via Generative Prior with Limited Data}},
+author = {Yun, Kwan and Seo, Kwanggyoon and Seo, Chang Wook and Yoon, Soyeon and Kim, Seongcheol and Ji, Soohyun and Ashtari, Amirsaman and Noh, Junyong},
+year = {2024},
+publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
+ISSN = {1467-8659},
+DOI = {10.1111/cgf.15045}
 }
 ```
